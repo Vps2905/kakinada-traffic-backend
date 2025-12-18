@@ -1,4 +1,6 @@
 __pycache__/
-outputs/
-*.pyc
+*.mp4
+*.csv
+*.json
 .env
+outputs/*
